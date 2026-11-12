@@ -1,0 +1,8 @@
+specification,effect,p,p_apa
+raw log rt_8,Empathy,0.01594046301605222,0.016
+raw log rt_8,Empathy x Recognition,4.309407596902218e-4,< .001
+per word,Empathy,0.29889988834182907,0.299
+per word,Recognition,5.695938953388927e-13,< .001
+validity check rt_3,Recognition,0.705517574088572,0.706
+validity check rt_5,Recognition,0.9990937916663106,0.999
+rt_8 predicting disclosure,log rt_8,0.40506450974948977,0.405

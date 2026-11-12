@@ -1,0 +1,10 @@
+stage,n
+"Pre raw (completed, field period)",456
+"Post raw (completed, field period)",387
+Pre-post dropout (no matching post record),69
+Matched sessions,387
+Excluded: invalid records (test runs),2
+Excluded: condition mismatch,0
+Excluded: age < 18,1
+Excluded: failed attention check,15
+Final analytic sample,369

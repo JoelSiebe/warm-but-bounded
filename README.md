@@ -13,7 +13,7 @@ Code development: The analysis scripts were written with the assistance of an AI
 | `02_exploratory.R` | Balance checks, exploratory outcomes, moderators, mediation, response times, disclosure choices, item-level analysis. |
 | `03_manuscript_tables.R` | Exports the values behind every table in the thesis. |
 | `04_additional_analyses.R` | Equivalence tests, multiplicity adjustment, attrition, discriminant validity, mediation sensitivity. Not preregistered. |
-| `05_pretest.R` | Manipulation checks and reliabilities in the pretest. |
+| `05_pretest.R` | Manipulation checks and reliabilities in the pretest (requires raw pretest export). |
 | `06_reproduce_from_public.R` | Re-estimates the confirmatory models from the public dataset. |
 
 ## How to run

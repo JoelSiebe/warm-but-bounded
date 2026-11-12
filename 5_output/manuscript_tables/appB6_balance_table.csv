@@ -1,3 +1,0 @@
-variable,test,statistic,df1,df2,p,p_apa
-Age,One-way ANOVA across four cells,0.2995604069909293,3,365,0.8257162776140221,0.826
-Gender,"Fisher's exact test (simulated, B = 10000)",NA,NA,NA,0.24087591240875914,0.241

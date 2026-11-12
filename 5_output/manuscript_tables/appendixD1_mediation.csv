@@ -1,9 +1,0 @@
-model,effect,estimate,ci_low,ci_high,p,p_apa
-Empathy -> social presence -> affective trust,ACME (indirect),0.2561373391331291,0.16359712652872568,0.3610436131143613,0,< .001
-Empathy -> social presence -> affective trust,ADE (direct),0.3723304712857808,0.20469082844433265,0.5381114993333698,0,< .001
-Empathy -> social presence -> affective trust,Total effect,0.6284678104189099,0.45081165688964653,0.8094158251336202,0,< .001
-Empathy -> social presence -> affective trust,Proportion mediated,0.40755840615352895,0.27195757397105813,0.5872577434418276,0,< .001
-Recognition -> agency -> paternalism,ACME (indirect),-0.028559221407499957,-0.1696422718854885,0.10512439116216106,0.668,0.668
-Recognition -> agency -> paternalism,ADE (direct),0.059962818672198506,-0.14309932389300298,0.2716709897691646,0.5656,0.566
-Recognition -> agency -> paternalism,Total effect,0.031403597264698546,-0.21366257918589573,0.28218792005118276,0.7992,0.799
-Recognition -> agency -> paternalism,Proportion mediated,-0.9094251581045458,-6.855283713056515,6.577335074126701,0.7576,0.758

@@ -1,9 +1,0 @@
-variable,E_f,R_f,n,proportion,successes
-SDR_binary,lowE,lowR,90,0.7333333333333333,66
-SDR_binary,lowE,highR,95,0.6421052631578948,61
-SDR_binary,highE,lowR,86,0.6279069767441859,54
-SDR_binary,highE,highR,98,0.7040816326530612,69
-uptake_num,lowE,lowR,90,0.9333333333333333,84
-uptake_num,lowE,highR,95,0.9368421052631579,89
-uptake_num,highE,lowR,86,0.930232558139535,80
-uptake_num,highE,highR,98,0.8979591836734694,88

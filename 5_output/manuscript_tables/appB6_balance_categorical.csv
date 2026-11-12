@@ -1,4 +1,0 @@
-variable,test,statistic,df,p,p_apa
-Gender,Pearson chi-squared,10.262414526999446,9,0.329662063894751,0.330
-Country,Pearson chi-squared,15.253409503309813,12,0.22786991093699333,0.228
-Recruitment wave,Pearson chi-squared,0.433377465970941,3,0.9332643768928608,0.933
